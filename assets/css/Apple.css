@@ -1,0 +1,91 @@
+
+body{
+  background-color:#DCDCDC;
+}
+ul.nav{
+  margin: 0;
+  padding: 0;
+  width: 980px;
+  line-height: 25px;
+  list-style-type: none;
+  float: left;
+  position: relative;
+  left: 250px;
+  top: 20px;
+  border-radius: 6px;
+}
+ul.nav li{
+  float: left;
+  width:7em;
+  background-color: #2E8B57;
+}
+
+ul.nav a{
+  display: block;
+  color:#2b3f00;
+  text-decoration:none;
+  padding: 0.3em 1em;
+
+  border-right: 1px solid #2E8B57;
+  border-left:1px solid gray;
+}
+
+ul.nav li:last-child a{
+  border-right: 0;
+  border-bottom: 0;
+}
+ul a:hover,
+ul a:focus{
+   color:#e4ffd3;
+   background-color:#6da203;
+ }
+.wrapper{
+  width: 940px;
+  margin: 0 auto;
+}
+.content{
+  background-color: white;
+  width: 985px;
+  height: 625px;
+  border-radius: 10px;
+  position: absolute;
+  top: 80px;
+  left: 200px;
+}
+.center{
+  position: absolute;
+  top: 160px;
+  left: 590px;
+}
+.maincotent{
+  background-color: white;
+  position: absolute;
+  top: 750px;
+  left:200px;
+}
+
+.maincotent1{
+  background-color: white;
+  position: absolute;
+  top: 750px;
+  left: 450px;
+}
+.maincotent2{
+  background-color: white;
+  position: absolute;
+  top: 750px;
+  left: 700px;
+}
+.maincotent3{
+  background-color: white;
+  position: absolute;
+  top: 750px;
+  left:950px;
+}
+.footer{
+  padding-top: 10px;
+  position: absolute;
+  top: 950px;
+  left: 200px;
+  height: 100px;
+}

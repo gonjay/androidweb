@@ -1,0 +1,174 @@
+@import "bootstrap";
+@import "bootstrap/responsive";
+
+html {
+font-size: 100%;
+}
+
+
+.container{
+  width: 1170px;  
+  box-shadow: -1px 1px 9px #e2e2e2;
+  margin: 0 auto;
+ 
+}
+
+#header{
+  display:inline;
+  display: block;
+}
+
+#header .logo{
+  float: left;
+  width: 156px;
+  height: 72px;
+  margin: 25px;
+  /*background-image: url('/assets/zhengdiancan_logo.png');*/
+}
+  
+#header .logo a:hover{
+    background: none;
+}
+
+#header .nav{
+  float: right;
+  margin: 25px;
+  font-size: 1.2em
+}
+/*Mobile phone adaptive-->*/
+#header .naved {
+  float: right;
+  font-size: 1.2em;
+}
+#header .logoed {
+float: left;
+width: 133px;
+margin: 2px;
+}
+#navtabed {
+border-bottom: 0px solid #DDD;
+}
+#inputwidth{
+  width: 180px;
+}
+/*mobile phone the end*/
+
+#areabox{
+  text-align:right;
+}
+
+#areabox img{
+   border: 3px solid #e2e2e2; 
+   border-radius: 2px;
+}
+
+.apartments_list{
+  padding-top:20px;
+}
+
+.apartments_list ul{
+  width:300px;
+  float: left;
+}
+
+.apartments_list ul li a{
+  font-size: 14px;
+  margin: 20px 10px;
+  color: gray;
+  line-height: 35px;
+  font-size: 18px;
+}
+
+.apartments_list ul li a:hover{ 
+  background: #9e5858; 
+  text-decoration: none;
+
+}
+
+.apartments_list ul li a:active {
+  color: #fff;
+}
+
+
+.footer{
+  margin-top:60px;
+  text-align: center;
+}
+
+#header, #servicearea {
+  margin-left: 0px; 
+}
+
+.unspacing{
+  margin: 10px 0;
+}
+.row{
+  margin-left: 0px;
+}
+#highly{
+  margin-top: 50px;
+}
+#highly img{
+   border: 3px solid #e2e2e2; 
+   border-radius: 2px;
+}
+.flower{
+ background-color: rgb(243, 85, 85);
+ height: 150px;
+ box-shadow: 1px 3px 4px #E2E2E2;
+}
+.flowerbg1{
+  background-image: url(../img/otis_redding.png);
+  background-repeat: repeat;
+}
+.flowerbg{
+   background-image: url(../img/bg-noise-tile.png);
+   background-repeat: repeat;
+   box-shadow: 2px 2px 9px #ECE0E0;
+ }
+.flowerbg3{
+   background-color: #FFFCFC;;
+   background-repeat: repeat;
+   box-shadow: 2px 2px 9px #ECE0E0;
+ }
+#flowered{
+  padding-top: 50px;
+  margin-left: 123px;
+  text-shadow:1px 1px 5px #e2e2e2;
+  font-family:"Microsoft YaHei" !important;  
+  color: white;
+}
+#floweredmobile{
+  padding-top: 20px;
+  margin-left: 60px;
+  text-shadow:1px 1px 5px #e2e2e2;
+  font-family:"Microsoft YaHei" !important;  
+  color: white;
+} 
+#floweredmobiled{
+  text-shadow:1px 1px 5px #e2e2e2;
+  font-family:"Microsoft YaHei" !important;  
+  color: #AA8686;
+} 
+
+.gauge{
+  margin: 21px 16px;
+}
+#indentation{text-indent: 2em;}
+
+#medially{
+  margin: 26px 50px;
+}
+.mode{
+  color: #062C31;
+  font-size: 20px;
+}
+#big{
+  width: 180px;
+  height: 50px;
+  font-size: 25px;
+}
+#breadth{
+  width: 60px;
+  height: 27px;
+}

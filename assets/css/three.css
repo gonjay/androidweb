@@ -1,0 +1,27 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: red;
+    font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti !important;
+
+
+
+ul.nav{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  float: left;
+  border:1px solid #486b02;
+  background-color: red;
+}
+ul.nav li{
+  float: left;
+  width: 8em;
+  background-color: block;}
+
+
+ul a:hover,
+ul a:focus{
+   color:#e4ffd3;
+   background-color:#6da203;}
+

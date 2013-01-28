@@ -1,0 +1,62 @@
+
+body{
+  margin: 0;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px;
+line-height: 20px;
+color: #A79292;
+background: url("../img/bg-noise-tile.png");
+}
+#header{
+  height: 120px;
+  padding-left: 200px;
+  padding-top: 60px;
+ 
+}
+.brand{
+ font-size: 60px;
+}
+#line{
+  height:10;
+  width:500; 
+}
+.footer{
+  background-color: #FFE4E1;
+}
+.pubtime{
+  margin: 2em;
+}
+.big{
+  color: #C99797;;
+  font-size: 10px;
+  /*显示查看回复等字体大小
+  font-weight: bold;*/
+  font-family: Arial,Verdana,Sans-serif;
+}
+#list{
+  text-decoration: none;
+  display: block;
+}
+.align_right{
+  text-align: right;
+}
+.btnbtn-large{
+  text-decoration: none;
+}
+.row-fluid .spaned3 {
+width: 27.04255319148934%;
+}
+.welled {
+min-height: 20px;
+padding: 9px;
+margin-bottom: 30px;
+border: 1px solid #E3E3E3;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+-webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05)
+
+}
+a{
+  color: #803F6B
+}

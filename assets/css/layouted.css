@@ -1,0 +1,33 @@
+html,body{
+  margin: 0;
+  padding:0;
+}
+.header{
+  background-color: blue;
+  margin: 0 auto;
+  height: 120px;
+}
+.content{
+  background-color: gray;
+  height: 480px;
+}
+.maincontent{
+  background-color: red;
+  width: 200px;
+  height: 400px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.secondcontent{
+  background-color: white;
+  float: right;
+  width: 900px;
+  height: 400px;
+  margin-top: 20px;
+  margin-right: 80px;
+}
+.footer{
+  background-color: red;
+
+}

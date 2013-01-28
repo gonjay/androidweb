@@ -1,0 +1,26 @@
+#line{
+  height:10;
+  width:500; 
+}
+.footer{
+  background-color: #FFE4E1;
+}
+.pubtime{
+  margin: 2em;
+}
+.big{
+  color: gray;
+  font-size: 1em;
+  font-weight: bold;
+  font-family: Arial,Verdana,Sans-serif;
+}
+#list{
+  text-decoration: none;
+  display: block;
+}
+.align_right{
+  text-align: right;
+}
+.btnbtn-large{
+  text-decoration: none;
+}

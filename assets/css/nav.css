@@ -1,0 +1,94 @@
+#post-thumb-img{
+  margin-bottom: 20px;
+  border-radius: 0 0 3px 3px;
+  border:  1px solid #E5E5E5;
+  height: 160px;
+  width: 170px;
+}
+
+#post-thumb-img-link{
+  background-color: #00FFFF;
+  height: 20px;
+}
+
+
+.mark{
+  width: 680px;
+  height: 18px;
+  padding: 8px 15px;
+  margin: 0 auto 15px;
+}
+.left_mark{
+  float: left;
+}
+.right_mark{
+ float: right;
+ width: 200px;
+ margin-right: 25px;
+}
+.right_mark a{
+  border-bottom: none;
+}
+
+.right_mark ul li{
+  float: left;
+  padding: 6px;
+}
+
+.essay{
+  width: 460px;
+  float: left;
+  display: block;
+  padding-bottom: 5px;
+  overflow: hidden;
+  margin-left:10px;
+}
+.review{
+  clear: both;
+  padding: 8px 15px;
+  width: 650px;
+  height: 18px;
+  border-bottom: 1px #E5E5E5 solid;
+  background-color: whiteSmoke;
+}
+.left_review{
+  float: left;
+  font-size: 12px;
+  height: 30px;
+  width: 460px;
+}
+.right_review{
+  float: right;
+  height: 18px;
+  overflow: hidden;
+  margin-right: 60px;
+}
+.left_review_tag{
+  float: left;
+ 
+
+}
+.left_review_tag1{
+   float: left;
+   padding-left: 30px; 
+}
+.left_review_tag2{
+   float: left;
+   padding-left: 50px; 
+}
+.press-button{
+  width: 400px;
+  height: 18px;
+  margin: 0px 0 5px;
+  padding-right: 15px;
+  display: block;
+  text-align: right;
+}
+.entry-title, .entry-title a{
+  clear: both;
+  padding-top: 35px;
+  margin-bottom: 2px;
+}
+.activeline{
+  border: 1px dotted #e2e2e2;
+}

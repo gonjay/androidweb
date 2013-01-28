@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Whatweb</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="imagelook">图片浏览</string>
+    <string name="timeclock">开启后台定时任务</string>
+    <string name="descr_image">imagetest</string>
+    <string name="ac_name_image_pager">ac_name_image_pager</string>
+    
+</resources>

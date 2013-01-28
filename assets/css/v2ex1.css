@@ -1,0 +1,51 @@
+.mas{
+  cellpadding:1; 
+ cellspacing:1;
+ border:0;
+ width:100%;}
+
+
+
+ html {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #fff;
+    font-family: STHeiti;
+}
+
+
+.box {
+    background-color: #fff;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.15);
+    border-bottom: 2px solid #fef8ee;
+    border-bottom: 2px solid #e2e2e9;
+}
+
+
+.cell {
+    padding: 10px;
+    font-size: 12px;
+    line-height: 120%;
+    text-align: left;
+    border-bottom: 1px solid #e2e2e2;
+    background-image: url("/static/img/bg_item.png");
+    background-position: 0 bottom;
+    background-repeat: repeat-x;
+}
+
+
+
+
+.item_title {
+    font-size: 16px;
+    line-height: 130%;
+    text-shadow: 0px 1px 0px #fff;
+}

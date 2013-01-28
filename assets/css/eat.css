@@ -1,0 +1,93 @@
+body{
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  font: 16px;
+}
+#container{
+  width: 100%;
+}
+#header{
+  width: 800px;
+  margin: 0 auto;
+  height: 100px;
+  background-color: #F8F7F7;
+}
+#pagebody{
+  width: 800px;
+  margin: 0 auto;
+  height: 400px;
+  background-color: #F8F7F7;
+  box-shadow: -3px 8px 5px #eee;
+}
+.sidebar{
+  width: 200px;
+  float: left;
+  padding-top: 20px;
+  clear: left;
+  overflow: hidden;
+  border:1px solid #E00;
+  height:300px
+}
+.mainbody{
+  width: 500px;
+  text-align: left;
+  float: right;
+  clear: right;
+  overflow: hidden;
+  border:1px solid #E00;
+  height:300px
+}
+#footer{
+  width: 800px;
+  height: 50px;
+  margin: 0 auto;
+  background-color: #F8F7F7;
+}
+a:link,a:visited {font-size:20px;text-decoration:none;}
+a:hover{color: red;}
+#message{
+  float: right;
+  padding: 20px 20px 0 0;
+}
+#message ul{
+  list-style: none;
+  margin: 0;
+}
+#message ul li{
+  float: left;
+  margin: 0px 10px;
+}
+#brand{
+  float: left;
+}
+#content{
+  width: 130px;
+  float: left;
+
+}
+#content ul{
+  list-style: none;
+  margin: 0;
+}
+#content ul li{
+  margin: 5px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

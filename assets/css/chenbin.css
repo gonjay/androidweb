@@ -1,0 +1,12 @@
+input[type=checkbox] {
+    display:block;
+  }
+
+input[type=checkbox] + label
+   {
+       background: url("../img/u=1841690127,1731133255&fm=23&gp=0.jpg") no-repeat 0 0;
+       height: 160px;
+       width: 160px;
+       display:inline-block;
+       padding: 0 0 0 0px;
+   }    

@@ -1,0 +1,79 @@
+﻿改：
+
+
+<div class="post-244 portfolio type-portfolio status-publish hentry" id="post-244">
+
+/*css代码*/
+.single-portfolio .hentry {
+border-bottom: none;
+margin: 0;
+/*添加左浮动。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。*/
+float: left;
+}
+
+
+改：
+
+html代码
+<div class="image-framel">
+
+css代码
+.image-frame1 {
+margin-bottom: 20px;
+/*此处添加左浮动。。。。。。。。。。。。。。。。。。。。。。*/
+float: left;
+}
+
+
+改：
+
+html代码
+<div class="entry-content">
+
+css代码
+.single-portfolio .entry-content {
+
+padding-left: 76px;/*只需设定此样式即可*/
+
+}
+
+
+改
+html代码：
+<div class="entry-meta">
+
+css代码改为
+.single-portfolio .entry-content .entry-meta {
+  left: 0;
+  width: 220px;
+  float: left;
+  position: relative;
+  left: 94px;
+  border: 1px solid #A5A376;
+  border-radius: 3px;
+  padding: 12px;
+}
+
+
+改：
+html代码
+<div id=gallery-1  class="gallery galleryid-244 gallery-columns-3 gallery-size-thumbnail">
+
+css代码改为
+.gallery {
+width: 100%;
+}
+
+
+改
+html代码
+<dl class="gallery-itme">
+
+css代码改为
+#gallery-1 .gallery-item {
+float: left;
+margin-top: 20px;
+text-align: center;
+width: 33%;
+padding-left: 20px;
+}
